@@ -1,0 +1,7 @@
+Appium-Python-Client==0.22
+py==1.4.31
+pytest==2.9.2
+selenium==2.53.5
+six==1.10.0
+unittest-xml-reporting==2.1.0
+xmlrunner==1.7.7
